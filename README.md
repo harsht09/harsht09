@@ -1,8 +1,8 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
-
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
 <h3 align="center">A Web Developer , Machine Learning Enthusiast and to be Software Engineer</h3>
 <img align="right"alt="Coding"width="400"src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsht09&label=Profile%20views&color=0e75b6&style=flat" alt="harsht09" /> </p>
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/i_tiwari-harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_tiwari-harsh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-tiwari-8b4a99234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-tiwari-8b4a99234/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.linkedin.com/in/harsh-tiwari-8b4a99234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/harsh-tiwari-8b4a99234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshtiwari09092000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshtiwari09092000" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsht09&show_icons=true&locale=en&layout=compact" alt="harsht09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsht09&show_icons=true&locale=en" alt="harsht09" /></p>
-
